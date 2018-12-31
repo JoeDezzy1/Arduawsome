@@ -1,6 +1,6 @@
 # Arduawsome
 
-This is a custom arduino script I've built in arduino's native C++ for a hackathon in 2016.
+This is a custom arduino script I've built using arduino's native C++ for a hackathon in 2016.
 If you have to do a project for arduino, feel free to use this.
 
                                       The script does the following:
